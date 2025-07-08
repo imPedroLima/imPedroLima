@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pedro Aikau Loureiro Lima, tenho 19 anos e sou natural do Pará. Concluí o ensino médio em 2021 e atualmente, estou cursando Sistemas de Informação na UFRA.
+Me chamo Pedro Aikau, tenho 19 anos e sou natural do Pará. Concluí o ensino médio em 2021 e atualmente, estou cursando Sistemas de Informação na UFRA.
 
 ### 🤖 Linguagens e Tecnologias
 <img 
@@ -44,6 +44,14 @@ Me chamo Pedro Aikau Loureiro Lima, tenho 19 anos e sou natural do Pará. Conclu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
